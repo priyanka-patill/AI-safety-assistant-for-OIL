@@ -1,0 +1,22 @@
+IOGP SIF ANNOTATION — LABELING DECISION GUIDE
+
+1. Read the Narrative, What_Went_Wrong, Causal_Factors and Corrective_Actions together.
+2. Identify the actual hazard described by the source.
+3. Identify the barrier/control that should have prevented the event.
+4. Identify the barrier failure only when the source supports it.
+5. Determine the credible potential consequence, not just the actual injury.
+6. Assign:
+   - SIF Potential
+   - Non-SIF Potential
+   - Needs Review
+7. Prefer the IOGP Life-Saving Rule already stated in the source.
+8. Use Secondary_LSR only when clearly supported.
+9. Write a short evidence-based SIF_Reason.
+10. Use Needs Review / Insufficient Evidence rather than guessing.
+
+IMPORTANT:
+- A near miss with no injury can still be SIF Potential.
+- Do not use actual injury severity alone to decide SIF status.
+- Do not treat every Fatal/HPE/FPI source category as automatic SIF ground truth.
+- Preserve the original report text.
+- These annotations should be reviewed by a safety-domain/HSE reviewer before final model training.
