@@ -1,0 +1,14 @@
+﻿Metric,Value
+Input records,969
+Output records,969
+Exact duplicate Report_IDs removed,0
+Metadata Employer fields repaired,67
+Metadata Occupation fields repaired,113
+Metadata Body_Part fields repaired,86
+Metadata Nature_of_Injury fields repaired,37
+Metadata Time_in_Service fields repaired,62
+Missing-value placeholders normalized,59
+Hazard fields filled,0
+Barrier fields filled,0
+Barrier_Failure fields filled,0
+SIF_Label fields filled,0
